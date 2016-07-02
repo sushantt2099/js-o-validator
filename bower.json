@@ -1,0 +1,28 @@
+{
+  "name": "idbase",
+  "description": "js library to manage HTML5 indexedDB",
+  "main": "./dist/idbase.min.js",
+  "authors": [
+    "Sushant <forksushant@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "indexeddb"
+  ],
+  "homepage": "https://github.com/sushantt2099/iDB",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3"
+    
+  },
+  "devDependencies": {
+    "qunit": "^1.23.1"
+  }
+}
